@@ -44,4 +44,4 @@ z-p= plastic gaat voor zaadje langs
 z-zz= door elkaar heen
 z-z= x
 
-score muziekje bij overwinning
+score muziekje bij overwinning. 0 
