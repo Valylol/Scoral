@@ -1,0 +1,43 @@
+# GameMaker Studio 2/2023+ .gitignore
+
+# Cache and temporary files
+.cache/
+.config/
+.vscode/
+
+# Build output directories
+*/*/options/
+export/
+
+# Compiled game files
+*.win
+*.yyp.backup*
+*.yyz
+
+# User-specific settings
+options/windows/options_windows.yy
+options/mac/options_mac.yy
+options/linux/options_linux.yy
+
+# IDE workspace files
+*.yyp.backup
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
