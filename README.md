@@ -3,4 +3,4 @@ Gamemaker Game for School VWO 4 Informatica
 gluclu & valy
 
 
-The name is a mix of the words Sea and Coral.
+The name "Scoral" is a mix of the words Sea and Coral.
