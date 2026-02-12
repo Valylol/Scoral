@@ -1,0 +1,47 @@
+door het hoogste aantal punten te halen 
+secret ending(als beide spelers beide ... punten hebben winnen ze allebei)
+
+
+
+game 
+koraal planten maar plastic komt naar beneden doet damage
+
+koraal
+plastic
+zak zaadjes
+zaadjes
+
+koraal= staat stil: groeit en beweegt op plaats heen en weer. kan doodgaan
+plastic= valt naar beneden als speler raakt krijgt hij schade
+zak zaadjes= verschijnt willekeurige plek in spelers gebied. als zaadjes op zijn moet hij het oppakken om nieuwe te halen.
+zaadjes= drieven naar beneden tot de bodem
+
+koraal= geen zwaartekracht
+plastic= zwaartekracht
+zak zaadjes= geen zwaartekracht
+zaadjes= zwaartekracht
+
+punten verzamelen voor een zo hoog mogelijke score
+muziekje als je wint/ als allebei de spelers winnen
+
+k-p= x
+k-zz= x
+k-z= zaadje verdwijnt
+k-k= x
+
+p-k= x
+p-zz= plastic gaat voor zak zaadjes langs
+p-z= plastic gaat voor zaadjes langs
+p-p= door elkaar heen
+
+zz-k= x
+zz-p= plastic gaat voor zak zaadjes langs
+zz-z= door elkaar heen
+zz-zz= x
+
+z-k= zaadje verdwijnt
+z-p= plastic gaat voor zaadje langs
+z-zz= door elkaar heen
+z-z= x
+
+score muziekje bij overwinning
