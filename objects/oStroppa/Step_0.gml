@@ -8,15 +8,8 @@ if (keyboard_check(ord("D"))) {
     x += move_speed;
 }
 
-if (keyboard_check(ord("W"))) {
-    y -= move_speed;
-}
-if (keyboard_check(ord("S"))) {
-    y += move_speed;
-}
-
-//limitsroom
+// limits
 if (x < 0) x = 0;
-if (x > 1366) x = 1366;
+if (x > room_width) x = room_width;
 if (y < 0) y = 0;
-if (y > 768) y = 768;
+if (y > room_height) y = room_height;

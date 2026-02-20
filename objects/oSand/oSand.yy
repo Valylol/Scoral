@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oSand",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"osand",
+  "eventList":[],
   "managed":true,
-  "name":"oSand",
+  "name":"osand",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,7 +26,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"Sand",
     "path":"sprites/Sand/Sand.yy",

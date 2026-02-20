@@ -5,7 +5,7 @@
     {"name":"Sprites","order":1,"path":"folders/Main/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"oSand","order":2,"path":"objects/oSand/oSand.yy",},
+    {"name":"osand","order":2,"path":"objects/osand/osand.yy",},
     {"name":"oStroppa","order":1,"path":"objects/oStroppa/oStroppa.yy",},
     {"name":"Sand","order":2,"path":"sprites/Sand/Sand.yy",},
     {"name":"Stroppa","order":1,"path":"sprites/Stroppa/Stroppa.yy",},

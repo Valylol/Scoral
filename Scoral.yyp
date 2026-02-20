@@ -24,7 +24,7 @@
   "name":"Scoral",
   "resources":[
     {"id":{"name":"oDiver","path":"objects/oDiver/oDiver.yy",},},
-    {"id":{"name":"oSand","path":"objects/oSand/oSand.yy",},},
+    {"id":{"name":"osand","path":"objects/osand/osand.yy",},},
     {"id":{"name":"oStroppa","path":"objects/oStroppa/oStroppa.yy",},},
     {"id":{"name":"main_room","path":"rooms/main_room/main_room.yy",},},
     {"id":{"name":"Diver","path":"sprites/Diver/Diver.yy",},},
