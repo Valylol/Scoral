@@ -1,15 +1,7 @@
+var spd = 4;
+//input
+if keyboard_check(ord("A")) { x -= spd; image_xscale = -1; }
+if keyboard_check(ord("D")) { x += spd; image_xscale =  1; }
 
-var move_speed = 4;
-
-if (keyboard_check(ord("A"))) {
-    x -= move_speed;
-}
-if (keyboard_check(ord("D"))) {
-    x += move_speed;
-}
-
-// limits
-if (x < 0) x = 0;
-if (x > room_width) x = room_width;
-if (y < 0) y = 0;
-if (y > room_height) y = room_height;
+//collision
+x = clamp(x, 64, room_width - 64);

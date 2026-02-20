@@ -7,7 +7,10 @@
   "ResourceOrderSettings":[
     {"name":"osand","order":2,"path":"objects/osand/osand.yy",},
     {"name":"oStroppa","order":1,"path":"objects/oStroppa/oStroppa.yy",},
+    {"name":"oVisnet","order":3,"path":"objects/oVisnet/oVisnet.yy",},
     {"name":"Sand","order":2,"path":"sprites/Sand/Sand.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Stroppa","order":1,"path":"sprites/Stroppa/Stroppa.yy",},
+    {"name":"Visnet","order":4,"path":"sprites/Visnet/Visnet.yy",},
   ],
 }

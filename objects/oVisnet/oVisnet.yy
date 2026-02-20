@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oStroppa",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oVisnet",
+  "eventList":[],
   "managed":true,
-  "name":"oStroppa",
+  "name":"oVisnet",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Stroppa",
-    "path":"sprites/Stroppa/Stroppa.yy",
+    "name":"Visnet",
+    "path":"sprites/Visnet/Visnet.yy",
   },
   "spriteMaskId":null,
   "visible":true,
