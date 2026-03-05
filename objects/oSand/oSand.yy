@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sand",
-    "path":"sprites/Sand/Sand.yy",
+    "name":"sInvis",
+    "path":"sprites/sInvis/sInvis.yy",
   },
   "spriteMaskId":null,
   "visible":true,

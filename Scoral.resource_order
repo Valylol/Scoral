@@ -1,6 +1,5 @@
 {
   "FolderOrderSettings":[
-    {"name":"Main","order":1,"path":"folders/Main.yy",},
     {"name":"Objects","order":2,"path":"folders/Main/Objects.yy",},
     {"name":"Sprites","order":1,"path":"folders/Main/Sprites.yy",},
   ],
@@ -12,12 +11,13 @@
     {"name":"oStroppa","order":1,"path":"objects/oStroppa/oStroppa.yy",},
     {"name":"oTurtle","order":6,"path":"objects/oTurtle/oTurtle.yy",},
     {"name":"oWhale","order":5,"path":"objects/oWhale/oWhale.yy",},
-    {"name":"Sand","order":2,"path":"sprites/Sand/Sand.yy",},
-    {"name":"sea","order":3,"path":"sprites/sea/sea.yy",},
-    {"name":"Shark","order":5,"path":"sprites/Shark/Shark.yy",},
+    {"name":"main_room","order":1,"path":"rooms/main_room/main_room.yy",},
+    {"name":"oRoom","order":7,"path":"sprites/oRoom/oRoom.yy",},
+    {"name":"Shark","order":4,"path":"sprites/Shark/Shark.yy",},
+    {"name":"sInvis","order":8,"path":"sprites/sInvis/sInvis.yy",},
     {"name":"Stroppa","order":1,"path":"sprites/Stroppa/Stroppa.yy",},
-    {"name":"Turtle","order":7,"path":"sprites/Turtle/Turtle.yy",},
-    {"name":"Visnet","order":4,"path":"sprites/Visnet/Visnet.yy",},
-    {"name":"Whale","order":6,"path":"sprites/Whale/Whale.yy",},
+    {"name":"Turtle","order":6,"path":"sprites/Turtle/Turtle.yy",},
+    {"name":"Visnet","order":3,"path":"sprites/Visnet/Visnet.yy",},
+    {"name":"Whale","order":5,"path":"sprites/Whale/Whale.yy",},
   ],
 }
