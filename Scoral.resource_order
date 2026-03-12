@@ -4,8 +4,9 @@
     {"name":"Sprites","order":1,"path":"folders/Main/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_net","order":3,"path":"objects/obj_net/obj_net.yy",},
     {"name":"oController","order":7,"path":"objects/oController/oController.yy",},
+    {"name":"oFish","order":8,"path":"objects/oFish/oFish.yy",},
+    {"name":"oNet","order":3,"path":"objects/oNet/oNet.yy",},
     {"name":"oSand","order":2,"path":"objects/oSand/oSand.yy",},
     {"name":"oShark","order":4,"path":"objects/oShark/oShark.yy",},
     {"name":"oStroppa","order":1,"path":"objects/oStroppa/oStroppa.yy",},

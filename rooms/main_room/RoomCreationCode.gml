@@ -1,0 +1,1 @@
+global.fish_escaped = 0;

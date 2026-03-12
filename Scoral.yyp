@@ -23,9 +23,10 @@
   },
   "name":"Scoral",
   "resources":[
-    {"id":{"name":"obj_net","path":"objects/obj_net/obj_net.yy",},},
     {"id":{"name":"oController","path":"objects/oController/oController.yy",},},
     {"id":{"name":"oDiver","path":"objects/oDiver/oDiver.yy",},},
+    {"id":{"name":"oFish","path":"objects/oFish/oFish.yy",},},
+    {"id":{"name":"oNet","path":"objects/oNet/oNet.yy",},},
     {"id":{"name":"oSand","path":"objects/oSand/oSand.yy",},},
     {"id":{"name":"oShark","path":"objects/oShark/oShark.yy",},},
     {"id":{"name":"oStroppa","path":"objects/oStroppa/oStroppa.yy",},},
