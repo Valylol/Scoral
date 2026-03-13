@@ -13,6 +13,7 @@
     {"name":"oTurtle","order":6,"path":"objects/oTurtle/oTurtle.yy",},
     {"name":"oWhale","order":5,"path":"objects/oWhale/oWhale.yy",},
     {"name":"main_room","order":1,"path":"rooms/main_room/main_room.yy",},
+    {"name":"oDiverS","order":3,"path":"sprites/oDiverS/oDiverS.yy",},
     {"name":"oRoom","order":7,"path":"sprites/oRoom/oRoom.yy",},
     {"name":"Shark","order":4,"path":"sprites/Shark/Shark.yy",},
     {"name":"sInvis","order":8,"path":"sprites/sInvis/sInvis.yy",},
