@@ -10,3 +10,18 @@ if keyboard_check_pressed(ord("W")) && can_shoot {
     can_shoot = false;
     alarm[0] = 90;
 }
+
+
+if keyboard_check (ord("A"))
+{
+		sprite_index = StroppaL;
+	show_debug_message("A");
+}
+else if keyboard_check (ord("D"))
+{
+	sprite_index = StroppaR;
+}
+else 
+{
+	sprite_index = Stroppa
+}
