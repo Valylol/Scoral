@@ -25,6 +25,8 @@
   "resources":[
     {"id":{"name":"oController","path":"objects/oController/oController.yy",},},
     {"id":{"name":"OcoralI","path":"objects/OcoralI/OcoralI.yy",},},
+    {"id":{"name":"OcoralII","path":"objects/OcoralII/OcoralII.yy",},},
+    {"id":{"name":"OcoralIII","path":"objects/OcoralIII/OcoralIII.yy",},},
     {"id":{"name":"oDiver","path":"objects/oDiver/oDiver.yy",},},
     {"id":{"name":"oFish","path":"objects/oFish/oFish.yy",},},
     {"id":{"name":"oNet","path":"objects/oNet/oNet.yy",},},
@@ -36,6 +38,8 @@
     {"id":{"name":"oWhale","path":"objects/oWhale/oWhale.yy",},},
     {"id":{"name":"main_room","path":"rooms/main_room/main_room.yy",},},
     {"id":{"name":"coralI","path":"sprites/coralI/coralI.yy",},},
+    {"id":{"name":"coralII","path":"sprites/coralII/coralII.yy",},},
+    {"id":{"name":"coralIII","path":"sprites/coralIII/coralIII.yy",},},
     {"id":{"name":"Diver","path":"sprites/Diver/Diver.yy",},},
     {"id":{"name":"Diverswim","path":"sprites/Diverswim/Diverswim.yy",},},
     {"id":{"name":"oRoom","path":"sprites/oRoom/oRoom.yy",},},

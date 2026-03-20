@@ -6,6 +6,8 @@
   "ResourceOrderSettings":[
     {"name":"oController","order":7,"path":"objects/oController/oController.yy",},
     {"name":"OcoralI","order":10,"path":"objects/OcoralI/OcoralI.yy",},
+    {"name":"OcoralII","order":11,"path":"objects/OcoralII/OcoralII.yy",},
+    {"name":"OcoralIII","order":12,"path":"objects/OcoralIII/OcoralIII.yy",},
     {"name":"oFish","order":8,"path":"objects/oFish/oFish.yy",},
     {"name":"oNet","order":3,"path":"objects/oNet/oNet.yy",},
     {"name":"oSand","order":2,"path":"objects/oSand/oSand.yy",},
@@ -16,6 +18,8 @@
     {"name":"oWhale","order":5,"path":"objects/oWhale/oWhale.yy",},
     {"name":"main_room","order":1,"path":"rooms/main_room/main_room.yy",},
     {"name":"coralI","order":14,"path":"sprites/coralI/coralI.yy",},
+    {"name":"coralII","order":15,"path":"sprites/coralII/coralII.yy",},
+    {"name":"coralIII","order":16,"path":"sprites/coralIII/coralIII.yy",},
     {"name":"Diverswim","order":9,"path":"sprites/Diverswim/Diverswim.yy",},
     {"name":"oRoom","order":7,"path":"sprites/oRoom/oRoom.yy",},
     {"name":"Seaweed","order":13,"path":"sprites/Seaweed/Seaweed.yy",},
