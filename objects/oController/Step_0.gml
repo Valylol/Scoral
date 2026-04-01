@@ -8,5 +8,5 @@ if timer >= spawn_delay {
     if pick == 2 instance_create_layer(-32, spawn_y, "Instances", oWhale);
     
     timer = 0;
-    spawn_delay = irandom_range(room_speed * 2, room_speed * 8);
+    spawn_delay = irandom_range(room_speed * 4, room_speed * 16);
 }

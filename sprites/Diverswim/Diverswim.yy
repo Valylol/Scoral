@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
   "%Name":"Diverswim",
-  "bboxMode":0,
-  "bbox_bottom":109,
+  "bboxMode":2,
+  "bbox_bottom":141,
   "bbox_left":7,
-  "bbox_right":144,
+  "bbox_right":145,
   "bbox_top":33,
   "collisionKind":1,
   "collisionTolerance":0,

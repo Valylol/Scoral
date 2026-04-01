@@ -48,10 +48,12 @@ if (hsp != 0) image_xscale = sign(hsp);
 //animation
 if (hsp == 0)
 {
-	sprite_index = Diver
+	sprite_index = Diver;
 	
 }
 else
 {
-	sprite_index = Diverswim
+	sprite_index = Diverswim;
 }
+
+

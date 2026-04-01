@@ -1,0 +1,1 @@
+global.count_down -= 1;
