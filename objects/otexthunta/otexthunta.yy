@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oNet",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"otexthunta",
+  "eventList":[],
   "managed":true,
-  "name":"oNet",
+  "name":"otexthunta",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"net",
-    "path":"sprites/net/net.yy",
+    "name":"endhuntatekst",
+    "path":"sprites/endhuntatekst/endhuntatekst.yy",
   },
   "spriteMaskId":null,
   "visible":true,

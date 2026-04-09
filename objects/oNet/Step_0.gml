@@ -1,8 +1,11 @@
 y += spd;
+depth = -2;
 
 if caught == noone {
-	var hit = instance_place(x, y, oFish);
-	// als gehit caught 
+	var hit = instance_place(x, y, oFish)
+	
+	
+	 
     if hit != noone {
         caught = hit;
 		hit.is_caught = true;
@@ -12,7 +15,7 @@ if caught == noone {
     caught.x = x;
     caught.y = y + 32;
 }
-// als niet gecaught destroy
+
 if place_meeting(x, y, oSand) {
     if caught == noone {
         instance_destroy();

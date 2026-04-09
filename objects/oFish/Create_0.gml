@@ -1,6 +1,8 @@
-is_caught = false;
+depth = -1;
+global.is_caught = false;
 randomy = irandom_range(300,600);
 is_freed = false;
+is_caught = false; 
 
 if irandom(1) == 0 {
 	x = -32; 
